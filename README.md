@@ -8,14 +8,13 @@ Welcome to my GitHub portfolio! I'm a **Junior Full Stack Developer** passionate
 
 Hi! My name is [Dion Curri ], and I am a dedicated full-stack developer. My journey in programming started with a curiosity about how the web works, and it quickly grew into a passion for solving problems and creating innovative digital solutions.
 
-- 🌱 **Currently Learning**: [List current technologies you're learning, e.g., React.js, TypeScript, etc.]
 - 💻 **Tech Stack**: 
   - Frontend: HTML, CSS, JavaScript, [e.g., React, Angular]
   - Backend: Node.js, Express, [e.g., Django, Ruby on Rails]
   - Database: MySQL, MongoDB, [or any others you use]
   - Tools: Git, Docker, [add others as relevant]
 
-- 📫 **Contact Me**: [Your Email Address or LinkedIn Profile]
+- 📫 **Contact Me**: [curridion31@gmail.com]
 
 ---
 
@@ -23,7 +22,7 @@ Hi! My name is [Dion Curri ], and I am a dedicated full-stack developer. My jour
 
 ## Skills
 
-- **Frontend**: Responsive design, JavaScript frameworks, CSS preprocessors
+- **Frontend**: Responsive design, JavaScript frameworks, CSS preprocessors , react 
 - **Backend**: RESTful API development, server-side programming
 - **Database Management**: Data modeling, writing complex queries
 - **Version Control**: Git, GitHub workflows
@@ -32,8 +31,6 @@ Hi! My name is [Dion Curri ], and I am a dedicated full-stack developer. My jour
 
 ## Education & Certifications
 
-- [Degree or Course Name], [Institution Name]
-- [Certification Name], [Organization]
 
 ---
 
