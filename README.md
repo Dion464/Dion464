@@ -12,7 +12,7 @@ Hi! My name is [Dion Curri ], and I am a dedicated full-stack developer. My jour
   - Frontend: HTML, CSS, JavaScript, [e.g., React, Angular]
   - Backend: Node.js, Express, [e.g., Django, Ruby on Rails]
   - Database: MySQL, MongoDB, [or any others you use]
-  - Tools: Git, Docker, [add others as relevant]
+  - Tools: Git, Docker,
 
 - 📫 **Contact Me**: [curridion31@gmail.com]
 
