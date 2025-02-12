@@ -1,6 +1,6 @@
-# Junior Full Stack Developer Portfolio
+#  Full Stack Developer Portfolio
 
-Welcome to my GitHub portfolio! I'm a **Junior Full Stack Developer** passionate about building dynamic, user-friendly web applications and continuously improving my coding skills. 
+Welcome to my GitHub portfolio! I'm a ** Full Stack Developer** passionate about building dynamic, user-friendly web applications and continuously improving my coding skills. 
 
 ---
 
